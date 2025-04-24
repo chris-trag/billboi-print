@@ -75,7 +75,7 @@ Thanks to the following contributors who helped make this project possible:
 
 - **[@jtraganos](https://github.com/jtraganos)**: For letting me hack with the receipt printer and nudging me to build this project
 - **[@erikch](https://github.com/erikch)**: For sharing ideas and inspiration about what's possible with Q Developer
-- - **[Amazon Q Developer](https://aws.amazon.com/q/)**: For all the vibe coding and magic using multiple APIs and hardware drivers
+- **[Amazon Q Developer](https://aws.amazon.com/q/)**: For all the vibe coding and magic using multiple APIs and hardware drivers
 
 ## Authors
 * @chris-trag
