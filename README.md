@@ -1,6 +1,9 @@
-# billboi-print
+# billBoi printbot
 
 A proof of concept Node app that fetches top stories from The New York Times API and prints them to a Star TSP143IIIU receipt printer, emulating the iconic NYT typography and layout.
+
+![danbo-tsp100iii](https://github.com/user-attachments/assets/057bb767-453d-428d-bb1e-113d19e37838)
+
 
 ## Features
 
