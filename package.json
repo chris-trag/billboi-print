@@ -1,0 +1,23 @@
+{
+  "name": "billboi-print",
+  "version": "0.1.0",
+  "description": "Print top NYT stories to Star TSP receipt printer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cron": "^3.1.6",
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "node-thermal-printer": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
